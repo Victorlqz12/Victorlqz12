@@ -10,7 +10,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorlqz12&layout=compact&theme=dark&cache_seconds=3600&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorlqz12&layout=compact&theme=dark&langs_count=8&hide_border=true" />
 </p>
 ---
 
