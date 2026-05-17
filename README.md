@@ -49,7 +49,7 @@ Atualmente buscando minha primeira oportunidade profissional na área, com inter
 
 ## Projetos em Destaque
 
-### [🏡 Aluguel Sítio Tureba](https://github.com/Victorlqz12/ProjetoReservas)
+### [🏡 Aluguel Sítio ](https://github.com/Victorlqz12/ProjetoReservas)
 
 App mobile Android para gerenciamento completo de reservas e controle financeiro de sítio/chácara. Permite cadastrar locatários, visualizar calendário de ocupação, controlar status de pagamento e gerar resumo financeiro por período.
 
